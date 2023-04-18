@@ -1,0 +1,14 @@
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.exe
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.deps.json
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.runtimeconfig.json
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.runtimeconfig.dev.json
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.dll
+H:\IMATP5_Andras\IMATP5_andras\bin\Debug\netcoreapp3.1\IMATP5_andras.pdb
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.csproj.AssemblyReference.cache
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.GeneratedMSBuildEditorConfig.editorconfig
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.AssemblyInfoInputs.cache
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.AssemblyInfo.cs
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.csproj.CoreCompileInputs.cache
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.dll
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.pdb
+H:\IMATP5_Andras\IMATP5_andras\obj\Debug\netcoreapp3.1\IMATP5_andras.genruntimeconfig.cache
